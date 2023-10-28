@@ -13,39 +13,39 @@ let переменные имеют блочную видимость, а ещё
 
 ### Задание 2
 
-![img](img/task2.1.jpg)
+![img](task2.1.jpg)
 
 И ответ в консоли:
 
-![img](img/task2.2.jpg)
+![img](task2.2.jpg)
 
 ### Задание 3
 
-![img](img/task3.1.jpg)
+![img](task3.1.jpg)
 
 Вывод в консоли:
 
-![img](img/task3.2.jpg)
+![img](task3.2.jpg)
 
 ### Задание 4
 
 Первое:
-![img](img/task4.1.1.jpg)
-  ![img](img/task4.1.2.jpg)
+![img](task4.1.1.jpg)
+  ![img](task4.1.2.jpg)
 
 Второе:
-![img](img/task4.2.1.jpg)
-  ![img](img/task4.2.2.jpg)
+![img](task4.2.1.jpg)
+  ![img](task4.2.2.jpg)
 
 ### Задание 5
 
 Первое:
-![img](img/5.1.1.jpg)
-  ![img](img/5.1.2.jpg)
+![img](5.1.1.jpg)
+  ![img](5.1.2.jpg)
 
 Второе:
-![img](img/5.2.1.jpg)
-!  [img](img/5.2.2.jpg)
+![img](5.2.1.jpg)
+!  [img](5.2.2.jpg)
 
 На этом все :nail_care:
 
